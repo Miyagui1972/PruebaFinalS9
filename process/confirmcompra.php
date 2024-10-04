@@ -110,6 +110,6 @@ if(mysqli_num_rows($verdata)>=1){
     echo '<script>swal("ERROR", "No has seleccionado ningún producto, revisa el carrito de compras", "error");</script>';
   }
 }else{
-    echo '<script>swal("ERROR", "El DNI es incorrecto, no esta registrado con ningun cliente", "error");</script>';
+    echo '<script>swal("ERROR", "El RUT es incorrecto, no esta registrado con ningun cliente", "error");</script>';
 }
 mysqli_free_result($verdata);

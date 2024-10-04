@@ -9,7 +9,7 @@
     <section id="form-registration">
         <div class="container">
             <div class="page-header">
-              <h1>REGISTRO <small class="tittles-pages-logo">STORE</small></h1>
+              <h1>REGISTRO <small class="tittles-pages-logo">Sistema de Venta</small></h1>
             </div>
             <p class="lead text-center">
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident assumenda asperiores architecto nostrum blanditiis excepturi voluptatibus, velit ad enim. Aperiam voluptatum est, fugit quisquam libero distinctio nobis porro numquam minus.
@@ -32,8 +32,8 @@
                               </div>
                               <div class="col-xs-12">
                                 <div class="form-group label-floating">
-                                  <label class="control-label"><i class="fa fa-address-card-o" aria-hidden="true"></i>&nbsp; Ingrese su número de DNI</label>
-                                  <input class="form-control" type="text" required name="clien-nit" pattern="[0-9]{1,15}" title="Ingrese su número de DNI. Solamente números" maxlength="15" >
+                                  <label class="control-label"><i class="fa fa-address-card-o" aria-hidden="true"></i>&nbsp; Ingrese su número de RUT</label>
+                                  <input class="form-control" type="text" required name="clien-nit" pattern="[0-9]{1,15}" title="Ingrese su número de RUT. Solamente números" maxlength="15" >
                                 </div>
                               </div>
                               <div class="col-xs-12 col-sm-6">

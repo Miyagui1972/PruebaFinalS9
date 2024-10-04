@@ -9,7 +9,7 @@
     <section id="container-pedido">
         <div class="container">
             <div class="page-header">
-              <h1>PEDIDOS <small class="tittles-pages-logo">STORE</small></h1>
+              <h1>PEDIDOS <small class="tittles-pages-logo">Sistema de Venta</small></h1>
             </div>
             <br><br><br>
             <div class="row">
@@ -145,8 +145,8 @@
                   </select>
                </div>
                 <div class="form-group">
-                    <label>DNI del cliente</label>
-                    <input class="form-control" type="text" name="Cedclien" placeholder="DNI del cliente" maxlength="15" required="">
+                    <label>RUT del cliente</label>
+                    <input class="form-control" type="text" name="Cedclien" placeholder="RUT del cliente" maxlength="15" required="">
                 </div>
                 <div class="form-group">
                       <input type="file" name="comprobante">

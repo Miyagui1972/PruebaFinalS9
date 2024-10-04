@@ -32,8 +32,8 @@
             </div>
             <div class="col-sm-4">
                 <h4 class="text-footer" >Direccion</h4>
-                <p style="color: #FFF">El Salvador</p>
-                <p style="color: #FFF">adipisicing elit</p>
+                <p style="color: #FFF">IACC</p>
+                <p style="color: #FFF">Estudiantes</p>
                 <p style="font-size:20px" aria-hidden="true">  000 – 000000 / 000 – 000000</p>
                 <p class="fa fa-mobile" style="font-size:20px"  aria-hidden="true">  00000000 / 0000000</p> <a href="#" target="_blank" style="color: #5bc0de">envianos_un_mensaje</a></br>
                 E-mail: <a href="#" target="_blank" style="color: #5bc0de"> &nbsp; ejemplod@dominio.com</a>
@@ -41,5 +41,5 @@
         </div>
     </div>
     <br><br><br>
-    <h5 class="text-center tittles-pages-logo text-footer">STORE &copy; 2021</h5>
+    <h5 class="text-center tittles-pages-logo text-footer">SISTEMA DE VENTA &copy; 2024</h5>
 </footer>
